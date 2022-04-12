@@ -35,6 +35,6 @@ icon:java
 
 出现如图提示即为安装成功
 
-![image-20220313114316641](download_java.assets/image-20220313114316641.png)
+![image-20220313114316641](./download_java.assets/image-20220313114316641.png)
 
 就可以去首页运行游戏启动器啦！
