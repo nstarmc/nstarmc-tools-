@@ -1,5 +1,6 @@
 ---
 icon: fankui
+heroFullScreen: true
 ---
 # 反馈
 

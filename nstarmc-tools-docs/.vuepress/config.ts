@@ -16,6 +16,14 @@ export default defineHopeConfig({
         href: "//at.alicdn.com/t/font_3322271_muh07s1bjgl.css",
       },
     ],
+    [
+      "script",
+      {
+        async: "",
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3827719938880025",
+        crossorigin: "anonymous",
+      }
+    ],
   ],
 
   themeConfig,
