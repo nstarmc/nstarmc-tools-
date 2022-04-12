@@ -1,0 +1,15 @@
+{
+  "name": "nstarmc-tools-docs",
+  "version": "2.0.0",
+  "description": "docs",
+  "license": "MIT",
+  "scripts": {
+    "docs:build": "vuepress build nstarmc-tools-docs",
+    "docs:clean-dev": "vuepress dev nstarmc-tools-docs --clean-cache",
+    "docs:dev": "vuepress dev nstarmc-tools-docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.39",
+    "vuepress-theme-hope": "^2.0.0-beta.38"
+  }
+}
