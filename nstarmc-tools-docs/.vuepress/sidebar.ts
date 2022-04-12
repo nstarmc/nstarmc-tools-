@@ -4,14 +4,14 @@ export default defineSidebarConfig([
   "",
   {
     text: "下载",
-    icon: "icon-xiazai",
+    icon: "xiazai",
     prefix: "download/",
     link: "download/",
     children: "structure",
   },
   {
     text: "帮助文档",
-    icon: "icon-icon_shiyongwendang",
+    icon: "icon_shiyongwendang",
     prefix: "docs/",
     children: [
       "download_java",
@@ -20,7 +20,7 @@ export default defineSidebarConfig([
   },
   {
     text: "反馈",
-    icon: "icon-fankui",
+    icon: "fankui",
     prefix: "feedback/",
     children: [
       ""

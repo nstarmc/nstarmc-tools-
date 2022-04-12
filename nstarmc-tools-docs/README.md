@@ -15,27 +15,27 @@ actions:
 
 features:
   - title: 自动下载
-    icon: icon-xiazai
+    icon: xiazai
     details: 支持全自动下载安装NSTARMC系列整合包。
 
   - title: 多线程下载引擎
-    icon: icon-xiancheng
+    icon: xiancheng
     details: 采用downloader多线程下载引擎，所有下载工作均十分高速。
 
   - title: 自动更新
-    icon: icon-gengxin
+    icon: gengxin
     details: 工具本身包含自动更新功能，在工具内也有无缝，不删数据更新整合包功能。
 
   - title: 多整合包
-    icon: icon-liebiao
+    icon: liebiao
     details: 支持管理多个版本整合包，环境独立。
 
   - title: 自动安装环境
-    icon: icon-java
+    icon: java
     details: 自动识别MC需要的Java版本，提供一键安装功能。
 
   - title: 更多功能
-    icon: icon-gengduo
+    icon: gengduo
     details: 更多功能请自行摸索~
 
 copyright: false
