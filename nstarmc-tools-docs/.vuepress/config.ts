@@ -3,8 +3,8 @@ import themeConfig from "./themeConfig";
 
 export default defineHopeConfig({
   lang: "zh-CN",
-  title: "主题演示",
-  description: "vuepress-theme-hope 的演示",
+  title: "NSTARMC-Tools Docs",
+  description: "NSTARMC-Tools 帮助文档",
 
   base: "/",
 
@@ -13,7 +13,7 @@ export default defineHopeConfig({
       "link",
       {
         rel: "stylesheet",
-        href: "//at.alicdn.com/t/font_3322271_3oyagc7rpex.css",
+        href: "//at.alicdn.com/t/font_3322271_muh07s1bjgl.css",
       },
     ],
   ],

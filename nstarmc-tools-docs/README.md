@@ -2,15 +2,15 @@
 home: true
 icon: home
 title: NSTARMC-Tools Docs
-heroImage: /logo.svg
+heroImage: /logo.png
 heroText: NSTARMC-Tools Docs
 tagline: NSTARMC-Tools 帮助文档
 actions:
   - text: 下载工具 ⬇️
-    link: /docs/
+    link: /download/
 
   - text: 帮助文档 📃
-    link: /download/
+    link: /docs/download_pack.html
     type: secondary
 
 features:

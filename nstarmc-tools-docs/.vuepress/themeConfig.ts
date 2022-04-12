@@ -3,16 +3,16 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default defineThemeConfig({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  hostname: "https://packs.nstarmc.cn",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "luluxiaoyu",
+    url: "https://packs.nstarmc.cn",
   },
 
   iconPrefix: "iconfont icon-",
 
-  logo: "/logo.svg",
+  logo: "/logo2.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -24,7 +24,7 @@ export default defineThemeConfig({
   // sidebar
   sidebar: sidebar,
 
-  footer: "默认页脚",
+  footer: "NSTARMC-Tools | Copyright © NSTARMC 2020-2022 All rights reserved.",
 
   displayFooter: true,
 
@@ -85,10 +85,10 @@ export default defineThemeConfig({
        * Using giscus
        */
       type: "giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      repo: "nstarmc/nstarmc-tools-docs",
+      repoId: "R_kgDOHKa5Xg",
+      category: "Q&A",
+      categoryId: "DIC_kwDOHKa5Xs4COh6T",
 
       /**
        * Using twikoo
