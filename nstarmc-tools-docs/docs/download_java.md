@@ -1,5 +1,5 @@
 ---
-icon:java
+icon: java
 ---
 # 下载整合包Java环境
 

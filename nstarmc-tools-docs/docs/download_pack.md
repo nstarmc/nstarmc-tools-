@@ -1,5 +1,5 @@
 ---
-icon:liebiao
+icon: liebiao
 ---
 # 使用NSTARMC-Tools下载整合包
 
