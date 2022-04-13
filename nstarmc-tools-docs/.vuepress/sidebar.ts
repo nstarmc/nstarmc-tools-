@@ -10,20 +10,23 @@ export default defineSidebarConfig([
     children: "structure",
   },
   {
-    text: "帮助文档",
-    icon: "icon_shiyongwendang",
-    prefix: "docs/",
+    text: "启动游戏",
+    icon: "qidong1",
+    prefix: "docs/game-launch/",
+    collapsable: true,
+    children: [
+      ""
+    ],
+  },
+  {
+    text: "整合包管理",
+    icon: "changjingguanli",
+    prefix: "docs/pack-manage/",
+    collapsable: true,
     children: [
       "download_java",
       "download_pack"
     ],
   },
-  {
-    text: "反馈",
-    icon: "fankui",
-    prefix: "feedback/",
-    children: [
-      ""
-    ],
-  },
+  "feedback/readme"
 ]);
