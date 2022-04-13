@@ -10,7 +10,7 @@ actions:
     link: /download/
 
   - text: 帮助文档 📃
-    link: /docs/download_pack.html
+    link: /docs/game-launch/
     type: secondary
 
 features:

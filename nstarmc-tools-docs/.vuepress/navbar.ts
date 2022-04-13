@@ -7,7 +7,8 @@ export default defineNavbarConfig([
     icon: "icon_shiyongwendang",
     prefix: "/docs/",
     children: [
-        "download_pack"
+      "docs/pack-manage/",
+      "docs/game-launch/"
         ],
       },
   {

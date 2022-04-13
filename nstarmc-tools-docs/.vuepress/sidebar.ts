@@ -24,8 +24,9 @@ export default defineSidebarConfig([
     prefix: "docs/pack-manage/",
     collapsable: true,
     children: [
-      "download_java",
-      "download_pack"
+      "",
+      "download_pack",
+      "download_java"
     ],
   },
   "feedback/"
