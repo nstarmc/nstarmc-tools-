@@ -28,5 +28,5 @@ export default defineSidebarConfig([
       "download_pack"
     ],
   },
-  "feedback/readme"
+  "feedback/"
 ]);
