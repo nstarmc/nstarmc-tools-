@@ -15,7 +15,7 @@ export default defineThemeConfig({
   logo: "/logo2.png",
 
   repo: "nstarmc/nstarmc-tools-docs",
-
+  docsDir:"nstarmc-tools-docs",
 
   // navbar
   navbar: navbar,

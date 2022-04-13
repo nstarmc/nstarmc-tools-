@@ -16,15 +16,10 @@ heroFullScreen: true
 
 ```
 【NSTARMC-Tools BUG反馈】
-
 NSTARMC-Tools版本号：
-
 操作系统版本：Windows7/10/11
-
 问题描述：
-
 BUG复现方法：
-
 错误提示（如果有）：
 ```
 
