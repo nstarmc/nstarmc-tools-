@@ -6,7 +6,7 @@ icon: xiazai
 
 适当提高下载线程可以提高下载速度
 
-![image-20220415101242898](download.assets/image-20220415101242898.png)
+![image-20220415101242898](./download.assets/image-20220415101242898.png)
 
 ::: tip 提示
 

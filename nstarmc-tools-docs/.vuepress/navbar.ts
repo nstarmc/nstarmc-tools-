@@ -9,7 +9,7 @@ export default defineNavbarConfig([
     children: [
       "pack-manage/",
       "game-launch/",
-      "tools-setting"
+      "tools-setting/"
         ],
       },
   {
