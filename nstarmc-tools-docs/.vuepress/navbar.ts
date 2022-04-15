@@ -8,7 +8,8 @@ export default defineNavbarConfig([
     prefix: "/docs/",
     children: [
       "pack-manage/",
-      "game-launch/"
+      "game-launch/",
+      "tools-setting"
         ],
       },
   {

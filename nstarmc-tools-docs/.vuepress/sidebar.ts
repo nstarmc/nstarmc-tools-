@@ -29,5 +29,17 @@ export default defineSidebarConfig([
       "download_java"
     ],
   },
+  {
+    text: "工具设置",
+    icon: "shezhi1",
+    prefix: "docs/tools-setting/",
+    collapsable: true,
+    children: [
+      "",
+      "theme",
+      "download",
+      "autoclose"
+    ],
+  },
   "feedback/"
 ]);
