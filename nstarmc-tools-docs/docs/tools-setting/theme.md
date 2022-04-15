@@ -36,4 +36,4 @@ icon: waiguan
 
 （背景图暂时只能联网随机获取）
 
-![image-20220415100351882](theme.assets/image-20220415100351882.png)
+![image-20220415100351882](./theme.assets/image-20220415100351882.png)
