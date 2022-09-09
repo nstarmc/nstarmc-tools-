@@ -1,5 +1,5 @@
 
+.DS_Store
 node_modules/
-nstarmc-tools-docs/.vuepress/.cache/
-nstarmc-tools-docs/.vuepress/.temp/
-nstarmc-tools-docs/.vuepress/dist/
+cname/
+build.bat

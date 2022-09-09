@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+  <id>https://packs.nstarmc.cn/</id>
+  <title>NSTAR-Tools帮助文档</title>
+  <subtitle>NSTAR-Tools帮助文档</subtitle>
+  <author>
+    <name>小宇</name>
+  </author>
+  <updated>2022-03-13T05:57:20.799Z</updated>
+  <generator>@mr-hope/vuepress-plugin-feed</generator>
+  <link rel="self" href="https://packs.nstarmc.cn/atom.xml"/>
+  <link rel="alternate" href="https://packs.nstarmc.cn/"/>
+  <rights>Copyright by 小宇</rights>
+  <contributor>
+    <name>小宇</name>
+  </contributor>
+  <entry>
+    <title type="html">反馈</title>
+    <id>https://packs.nstarmc.cn/feedback/</id>
+    <link href="https://packs.nstarmc.cn/feedback/"/>
+    <updated>2022-03-13T05:50:26.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="反馈"> 反馈</h1>
+<p>你可以在下方区域进行反馈</p>
+<p>反馈内容包含NSTAR系列整合包，NSTARMC-Tools</p>
+<div><p>反馈NSTARMC-Tools 的BUG</p>
+<p>如果你需要反馈工具BUG，请按照以下格式填写：</p>
+<p>（请确保正确安装运行库后再反馈！）</p>
+<div><pre><code>【NSTARMC-Tools BUG反馈】
+
+NSTARMC-Tools版本号：
+
+操作系统版本：Windows7/10/11
+
+问题描述：
+
+BUG复现方法：
+
+错误提示（如果有）：
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div></div>
+<comment/>
+]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <published>2022-03-13T04:22:19.000Z</published>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+  <entry>
+    <title type="html">下载整合包Java环境</title>
+    <id>https://packs.nstarmc.cn/download/download_java/</id>
+    <link href="https://packs.nstarmc.cn/download/download_java/"/>
+    <updated>2022-03-13T03:48:50.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="下载整合包java环境"> 下载整合包Java环境</h1>
+<h2 id="简述"> 简述</h2>
+<p>自从本工具发布后，整合包压缩包不再自带Java环境</p>
+<p>你可以按照下文手动下载</p>
+<h2 id="下载java运行环境"> 下载Java运行环境</h2>
+<div><p>提示</p>
+<p>本工具将Java环境直接安装在整合包内</p>
+<p>游戏启动器可以自动识别</p>
+<p>并非全局安装！</p>
+</div>
+<p>进入“Java下载”页面，选择你想安装Java环境的整合包</p>
+<p>此时，工具将自动检测需要的Java版本</p>
+<p><img src="./download_java.assets/image-20220313114213809.png" alt="image-20220313114213809" /></p>
+<p>点击开始下载即可自动安装</p>
+<p><img src="./download_java.assets/image-20220313114238371.png" alt="image-20220313114238371" /></p>
+<p><img src="./download_java.assets/image-20220313114255296.png" alt="image-20220313114255296" /></p>
+<p>出现如图提示即为安装成功</p>
+<p><img src="./download_java.assets/image-20220313114316641.png" alt="image-20220313114316641" /></p>
+<p>就可以去首页运行游戏启动器啦！</p>
+]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <published>2022-03-13T03:48:50.000Z</published>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+  <entry>
+    <title type="html">使用NSTARMC-Tools下载整合包</title>
+    <id>https://packs.nstarmc.cn/download/download_pack/</id>
+    <link href="https://packs.nstarmc.cn/download/download_pack/"/>
+    <updated>2022-03-13T03:48:50.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="使用nstarmc-tools下载整合包"> 使用NSTARMC-Tools下载整合包</h1>
+<p>首先打开工具，进入“下载整合包”页面</p>
+<p><img src="./download_pack.assets/image-20220313113415850.png" alt="image-20220313113415850" /></p>
+<p>然后选择你想要下载的整合包类别，版本，点击开始下载即可</p>
+<div><p>注意</p>
+<p>下载的整合包不可以是本地已经存在的整合包</p>
+</div>
+<p><img src="./download_pack.assets/image-20220313113551697.png" alt="image-20220313113551697" /></p>
+<p><img src="./download_pack.assets/image-20220313113643482.png" alt="image-20220313113643482" /></p>
+<p>出现下图提示即下载完成</p>
+<p><img src="./download_pack.assets/image-20220313113811206.png" alt="image-20220313113811206" /></p>
+<p>如果你有对应Java运行环境，回到首页直接运行即可</p>
+<p>如果没用，请查看下载Java的帮助文档页面</p>
+]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <published>2022-03-13T03:48:50.000Z</published>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+  <entry>
+    <title type="html">NSTARMC-Tools</title>
+    <id>https://packs.nstarmc.cn/</id>
+    <link href="https://packs.nstarmc.cn/"/>
+    <updated>2022-03-13T04:09:13.000Z</updated>
+    <content type="html"><![CDATA[<p>本文档为NSTARMC-Tools以及NSTAR基础模组整合包帮助文档~<br>
+点击“开始阅读”以了解吧！</p>
+]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <published>2022-01-15T05:03:22.000Z</published>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+  <entry>
+    <title type="html">下载NSTARMC-Tools</title>
+    <id>https://packs.nstarmc.cn/download/</id>
+    <link href="https://packs.nstarmc.cn/download/"/>
+    <updated>2022-03-13T03:48:50.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="下载nstarmc-tools"> 下载NSTARMC-Tools</h1>
+<h2 id="关于nstarmc-tools"> 关于NSTARMC-Tools</h2>
+<p>NSTARMC-Tools是一款专门为NSTAR系列整合包所定制的一款工具，具有接收整合包信息，下载整合包，下载安装Java运行环境，更新整合包等功能</p>
+<p><img src="./readme.assets/image-20220313113220763.png" alt="image-20220313113220763" /></p>
+<h2 id="下载nstarmc-tools-2"> 下载NSTARMC-Tools</h2>
+<p><strong>下载最新版本：<a href="https://res.nstarmc.cn/latest/NSTARMC-Tools.exe" target="_blank" rel="noopener noreferrer">下载</a></strong></p>
+<div><p>运行环境</p>
+<p>本工具运行需要以下两个运行环境</p>
+<p>软件本体运行环境 — .NET Framework 4.8[Windows10+ 自带]  <a href="https://go.microsoft.com/fwlink/?linkid=2088631" target="_blank" rel="noopener noreferrer">点击下载</a></p>
+<p>软件浏览器扩展运行环境 — Webview2[Windows11+ 自带] 点击下载 <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/61941fe4-55e6-4948-ac81-919de7e15d5b/MicrosoftEdgeWebView2RuntimeInstallerX64.exe" target="_blank" rel="noopener noreferrer">点击下载</a></p>
+</div>
+<p><strong>下载历史版本：</strong></p>
+<p>请前往Github Releases下载</p>
+<p>仓库：<a href="https://github.com/nstarmc/NSTARMC-Tools/releases" target="_blank" rel="noopener noreferrer">Releases · nstarmc/NSTARMC-Tools (github.com)</a></p>
+]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <published>2022-03-13T03:48:50.000Z</published>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+</feed>

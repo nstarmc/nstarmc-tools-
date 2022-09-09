@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://packs.nstarmc.cn/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>NSTAR-Tools帮助文档</title>
+    <link>https://packs.nstarmc.cn/</link>
+    <description>NSTAR-Tools帮助文档</description>
+    <language>zh-CN</language>
+    <pubDate>Sun, 13 Mar 2022 05:57:20 GMT</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2022 05:57:20 GMT</lastBuildDate>
+    <generator>@mr-hope/vuepress-plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <copyright>Copyright by 小宇</copyright>
+    <item>
+      <title>反馈</title>
+      <link>https://packs.nstarmc.cn/feedback/</link>
+      <guid>https://packs.nstarmc.cn/feedback/</guid>
+      <source url="https://packs.nstarmc.cn/rss.xml">反馈</source>
+      <pubDate>Sun, 13 Mar 2022 04:22:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="反馈"> 反馈</h1>
+<p>你可以在下方区域进行反馈</p>
+<p>反馈内容包含NSTAR系列整合包，NSTARMC-Tools</p>
+<div><p>反馈NSTARMC-Tools 的BUG</p>
+<p>如果你需要反馈工具BUG，请按照以下格式填写：</p>
+<p>（请确保正确安装运行库后再反馈！）</p>
+<div><pre><code>【NSTARMC-Tools BUG反馈】
+
+NSTARMC-Tools版本号：
+
+操作系统版本：Windows7/10/11
+
+问题描述：
+
+BUG复现方法：
+
+错误提示（如果有）：
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div></div>
+<comment/>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>下载整合包Java环境</title>
+      <link>https://packs.nstarmc.cn/download/download_java/</link>
+      <guid>https://packs.nstarmc.cn/download/download_java/</guid>
+      <source url="https://packs.nstarmc.cn/rss.xml">下载整合包Java环境</source>
+      <pubDate>Sun, 13 Mar 2022 03:48:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="下载整合包java环境"> 下载整合包Java环境</h1>
+<h2 id="简述"> 简述</h2>
+<p>自从本工具发布后，整合包压缩包不再自带Java环境</p>
+<p>你可以按照下文手动下载</p>
+<h2 id="下载java运行环境"> 下载Java运行环境</h2>
+<div><p>提示</p>
+<p>本工具将Java环境直接安装在整合包内</p>
+<p>游戏启动器可以自动识别</p>
+<p>并非全局安装！</p>
+</div>
+<p>进入“Java下载”页面，选择你想安装Java环境的整合包</p>
+<p>此时，工具将自动检测需要的Java版本</p>
+<p><img src="./download_java.assets/image-20220313114213809.png" alt="image-20220313114213809" /></p>
+<p>点击开始下载即可自动安装</p>
+<p><img src="./download_java.assets/image-20220313114238371.png" alt="image-20220313114238371" /></p>
+<p><img src="./download_java.assets/image-20220313114255296.png" alt="image-20220313114255296" /></p>
+<p>出现如图提示即为安装成功</p>
+<p><img src="./download_java.assets/image-20220313114316641.png" alt="image-20220313114316641" /></p>
+<p>就可以去首页运行游戏启动器啦！</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>使用NSTARMC-Tools下载整合包</title>
+      <link>https://packs.nstarmc.cn/download/download_pack/</link>
+      <guid>https://packs.nstarmc.cn/download/download_pack/</guid>
+      <source url="https://packs.nstarmc.cn/rss.xml">使用NSTARMC-Tools下载整合包</source>
+      <pubDate>Sun, 13 Mar 2022 03:48:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="使用nstarmc-tools下载整合包"> 使用NSTARMC-Tools下载整合包</h1>
+<p>首先打开工具，进入“下载整合包”页面</p>
+<p><img src="./download_pack.assets/image-20220313113415850.png" alt="image-20220313113415850" /></p>
+<p>然后选择你想要下载的整合包类别，版本，点击开始下载即可</p>
+<div><p>注意</p>
+<p>下载的整合包不可以是本地已经存在的整合包</p>
+</div>
+<p><img src="./download_pack.assets/image-20220313113551697.png" alt="image-20220313113551697" /></p>
+<p><img src="./download_pack.assets/image-20220313113643482.png" alt="image-20220313113643482" /></p>
+<p>出现下图提示即下载完成</p>
+<p><img src="./download_pack.assets/image-20220313113811206.png" alt="image-20220313113811206" /></p>
+<p>如果你有对应Java运行环境，回到首页直接运行即可</p>
+<p>如果没用，请查看下载Java的帮助文档页面</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>NSTARMC-Tools</title>
+      <link>https://packs.nstarmc.cn/</link>
+      <guid>https://packs.nstarmc.cn/</guid>
+      <source url="https://packs.nstarmc.cn/rss.xml">NSTARMC-Tools</source>
+      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
+      <content:encoded><![CDATA[<p>本文档为NSTARMC-Tools以及NSTAR基础模组整合包帮助文档~<br>
+点击“开始阅读”以了解吧！</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>下载NSTARMC-Tools</title>
+      <link>https://packs.nstarmc.cn/download/</link>
+      <guid>https://packs.nstarmc.cn/download/</guid>
+      <source url="https://packs.nstarmc.cn/rss.xml">下载NSTARMC-Tools</source>
+      <pubDate>Sun, 13 Mar 2022 03:48:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="下载nstarmc-tools"> 下载NSTARMC-Tools</h1>
+<h2 id="关于nstarmc-tools"> 关于NSTARMC-Tools</h2>
+<p>NSTARMC-Tools是一款专门为NSTAR系列整合包所定制的一款工具，具有接收整合包信息，下载整合包，下载安装Java运行环境，更新整合包等功能</p>
+<p><img src="./readme.assets/image-20220313113220763.png" alt="image-20220313113220763" /></p>
+<h2 id="下载nstarmc-tools-2"> 下载NSTARMC-Tools</h2>
+<p><strong>下载最新版本：<a href="https://res.nstarmc.cn/latest/NSTARMC-Tools.exe" target="_blank" rel="noopener noreferrer">下载</a></strong></p>
+<div><p>运行环境</p>
+<p>本工具运行需要以下两个运行环境</p>
+<p>软件本体运行环境 — .NET Framework 4.8[Windows10+ 自带]  <a href="https://go.microsoft.com/fwlink/?linkid=2088631" target="_blank" rel="noopener noreferrer">点击下载</a></p>
+<p>软件浏览器扩展运行环境 — Webview2[Windows11+ 自带] 点击下载 <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/61941fe4-55e6-4948-ac81-919de7e15d5b/MicrosoftEdgeWebView2RuntimeInstallerX64.exe" target="_blank" rel="noopener noreferrer">点击下载</a></p>
+</div>
+<p><strong>下载历史版本：</strong></p>
+<p>请前往Github Releases下载</p>
+<p>仓库：<a href="https://github.com/nstarmc/NSTARMC-Tools/releases" target="_blank" rel="noopener noreferrer">Releases · nstarmc/NSTARMC-Tools (github.com)</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
